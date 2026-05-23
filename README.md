@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Healthcare KPI Analytics Dashboard
 
 ## Project Overview
@@ -60,3 +61,10 @@ This analysis provides a multi-dimensional view of healthcare data, helping iden
 
 ## Author
 Beginner Data Analyst Portfolio Project
+=======
+## Insights
+
+- Patient distribution varies across medical conditions.
+- Some conditions show significantly higher prevalence, indicating higher healthcare demand.
+- These insights can help improve resource allocation and planning.
+>>>>>>> a8c1f8ba5deeef3234cda332ceb1a8fb7727724b
